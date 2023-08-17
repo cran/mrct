@@ -1,0 +1,12 @@
+fd1abddd357bed2698e59ddd3c16a243 *DESCRIPTION
+27dcb45bf5ef74376d2f06d01c36a0ab *NAMESPACE
+853a2884be4cb8bd81cc6e49afa20b9a *R/mrct_functions.R
+122e074c36e4b4d839244a95aab22aa3 *build/partial.rdb
+13b666fdc75f477b34d80a4c1a140d5e *inst/REFERENCES.bib
+10f4046824126495e4ee1e7a0e2d243a *man/innerProduct.Rd
+8c27335b5c13b0763c981ce8b6c6787d *man/mrct.Rd
+7e31c8925a70fc9c131fb0d8811f31a6 *man/mrct.ise.Rd
+1b38957d528dcd0ffb8b2140801778f9 *man/mrct.plot.Rd
+23ef6c0c27284e0e39e9261919fc363c *man/mrct.rgauss.Rd
+e75548514aeabe7b2651fa67c706061b *man/mrct.sparse.Rd
+aa303f79e1c0e36b845d378da74255b4 *man/mrct.sparse.plot.Rd
